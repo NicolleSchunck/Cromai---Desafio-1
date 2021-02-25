@@ -7,7 +7,7 @@ using namespace std; // diretiva std
 int main (){
 int c1, c2, h;
 
-cout << "Calculadora do valor da hipotenusa de um triângulo rectângulo";
+cout << "Calculadora do valor da hipotenusa de um triângulo retângulo";
 cout << "\nPor favor, introduza os valores dos catetos: ";
 cout << "\nCateto 1: ";
 cin >> c1;
